@@ -2,6 +2,8 @@
 
 A modern e-commerce backend platform built with ASP.NET Core using Clean Architecture principles. This RESTful API provides comprehensive functionality for managing products, orders, payments, and user authentication in an e-commerce environment.
 
+> **Related Project**: [FreshCart Frontend](https://github.com/O2ymandias/FreshCart.Frontend) - Angular frontend application
+
 ## 🏗️ Architecture Overview
 
 FreshCart.Backend follows Clean Architecture principles, ensuring separation of concerns and maintainability:
@@ -64,3 +66,6 @@ Once the application is running, you can access:
 
 - **Swagger UI**: `BaseUrl/swagger`
 - **API Endpoints**: `BaseUrl/api/`
+- **Postman Collection**: Import the `FreshCart.postman-apis-collection.json`
+  
+**Happy Coding with FreshCart Backend! 🚀**
